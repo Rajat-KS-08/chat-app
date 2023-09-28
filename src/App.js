@@ -4,7 +4,7 @@ import Login from './components/Login';
 import ChatFeed from './components/ChatFeed';
 import "./App.css";
 
-const projectID = "4a608fd2-b666-44a0-a232-ac9b990816e3";
+const projectID = "...";
 
 const App = () => {
 
