@@ -1,3 +1,5 @@
+The Deployed Version - https://simple-react-chatapp.netlify.app/
+To test the app please use the username as "Messi" and Password as "qwerty"
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
